@@ -2,7 +2,7 @@
 """
 Number System Converter
 Converts between Decimal, Binary, Octal and Hexadecimal.
-Author: <Your Name> | Date: <DD‑MM‑YYYY>
+
 """
 
 import tkinter as tk
